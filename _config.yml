@@ -1,6 +1,6 @@
 # Note! If you're using jekyll serve --watch to run a server, you'll need to restart after any changes here
-name: "Strongly Typed"
-description: "A responsive HTML5 site template. Manufactured by HTML5 UP. Jekylled by @techieshark."
+name: "Twenty-Two"
+description: "A blog to capture the jounery of my life after university."
 pygments: true
 baseurl: "/strongly-typed-jekylled"
 #excerpt_separator: "<!--more-->"
