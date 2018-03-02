@@ -1,7 +1,7 @@
 # Note! If you're using jekyll serve --watch to run a server, you'll need to restart after any changes here
 name: "Twenty-Two"
 description: "A blog to capture the jounery of my life after university."
-baseurl: "/strongly-typed-jekylled"
+baseurl: "/Blossoms"
 #excerpt_separator: "<!--more-->"
 
 owner: "Your Name"
